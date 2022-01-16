@@ -2,4 +2,4 @@
 
 ## Développement limlité
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/nevermind78/LT_ANALYSEII/main)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/nevermind78/LT_ANALYSEII/main?filepath=DL.ipynb)
