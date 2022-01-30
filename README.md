@@ -4,6 +4,10 @@
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/nevermind78/LT_ANALYSEII/main?filepath=DL.ipynb)
 
+## Primitive et calcul d'Intégrale
+
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/nevermind78/LT_ANALYSEII/main?filepath=integ.ipynb)
+
 ----------------------------
 # TD Analyse II
 
