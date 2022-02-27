@@ -10,7 +10,8 @@
 
 ## Equation Différentielle 
 
-[Equation Différentielle pdf]()
+Equation Différentielle [pdf](https://github.com/nevermind78/LT_ANALYSEII/blob/35e50b3ee635ef9470af03f5c901126e8cb1a93e/Equationdiff.pdf)
+
 ----------------------------
 # TD Analyse II
 
