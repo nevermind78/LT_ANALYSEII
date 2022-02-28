@@ -1,6 +1,6 @@
 # LT_ANALYSE II
 # Cours Analyse II
-## Développement limlité [pdf](https://github.com/nevermind78/LT_ANALYSEII/blob/c888c2aea9c2a16f63f188aa304a00dd692cabdf/DL%20-%20Jupyter%20Notebook.pdf)
+## Développement limité [pdf](https://github.com/nevermind78/LT_ANALYSEII/blob/c888c2aea9c2a16f63f188aa304a00dd692cabdf/DL%20-%20Jupyter%20Notebook.pdf)
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/nevermind78/LT_ANALYSEII/main?filepath=DL.ipynb)
 
