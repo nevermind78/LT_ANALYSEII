@@ -12,6 +12,8 @@
   - [Correction EX5 partie1](https://github.com/nevermind78/LT_ANALYSEII/blob/8ca87b4ec1a35acf224941afb372aa78d25156dd/1LT3EX512.pdf)
   - [Correction EX5 partie2](https://github.com/nevermind78/LT_ANALYSEII/blob/8ca87b4ec1a35acf224941afb372aa78d25156dd/1LT3eqdiffsincos.pdf)
 * [Documents de révision et fiches](https://github.com/nevermind78/LT_ANALYSEII/tree/main/Docs)
+* - [Correction EX5 partie3](https://github.com/nevermind78/LT_ANALYSEII/)
+* [Documents de révision et fiches](https://github.com/nevermind78/LT_ANALYSEII/tree/main/Docs)
 
 ## TD Algèbre II
 
