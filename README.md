@@ -11,7 +11,7 @@
   - [Correction Ex1+Ex2](https://github.com/nevermind78/LT_ANALYSEII/blob/99c299fae6252f23239b4520158a8300b53688b2/EX2ODE.pdf)
   - [Correction EX5 partie1](https://github.com/nevermind78/LT_ANALYSEII/blob/8ca87b4ec1a35acf224941afb372aa78d25156dd/1LT3EX512.pdf)
   - [Correction EX5 partie2](https://github.com/nevermind78/LT_ANALYSEII/blob/8ca87b4ec1a35acf224941afb372aa78d25156dd/1LT3eqdiffsincos.pdf)
-  - [Correction EX5 partie3](https://github.com/nevermind78/LT_ANALYSEII/)
+  - [Correction EX5 partie3](https://github.com/nevermind78/LT_ANALYSEII/blob/569f3fd6902c2293c239bbcd01564fb20e942f09/TD_ANALYSE/EX5_56.pdf)
 * [Documents de révision et fiches](https://github.com/nevermind78/LT_ANALYSEII/tree/main/Docs)
 
 
